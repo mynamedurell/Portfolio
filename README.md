@@ -14,6 +14,7 @@ Lastly my aesthetic is something that changes almost every given year whether it
 
 # Vector Images
 ```
-![IMG_5658](https://user-images.githubusercontent.com/58044396/116487659-7c41a080-a85e-11eb-9dcc-5920bc1ee1d6.jpg)![IMG_8555](https://user-images.githubusercontent.com/58044396/116487821-df333780-a85e-11eb-85b0-6a540b5b335d.jpg)
+![Vector Image]
+(https://github.com/mynamedurell/Portfolio/blob/main/IMG_8555.jpg)
 ```
 
