@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Durell Smiley's Portfolio
 
-You can use the [editor on GitHub](https://github.com/mynamedurell/Portfolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+# About Me 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Hello world! My name is Durell Smiley and i'm a senior DCD major at Coastal Carolina University. I am currently planning on graduating in the Fall semester and hope to get a job in my field soon after. I'm interested in advertising, coding and social media branding so hopefully i can find a job relating to that in the future. My interests outside of DCD include playing video games, collecting shoes, and playing with my dog.
 
 ### Markdown
 
