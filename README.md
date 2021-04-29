@@ -13,7 +13,8 @@ My career aspirations are pretty varied because i'm such an open minded person a
 Lastly my aesthetic is something that changes almost every given year whether it be my clothes or the way my room looks, the aesthetic is evolving. My current aesthetic is minimalistic but still vibrant in different aspects. When it comes to clothes it just comes down to oversized t-shirts and shorts short enough to possibly be a problem depending on how I move. When it comes down to technology and things in that aspect, i've grown to love the simplicity of Apple and how all their products weave together so seemlessly, I was into Android when I was younger but as I grew in age all the customization just became overwhelming. Lastly for my design aesthetic i'd say its still pretty simple, I usually gravitate more towards designs with fewer colors and not much going on.
 
 # Vector Images
-![IMG_5658](https://user-images.githubusercontent.com/58044396/116488413-53baa600-a860-11eb-98a1-aa9ca62b7f33.jpg)
+![My first vector image I made. It might look a little weird but I like the contrast it has from the original image](https://user-images.githubusercontent.com/58044396/116488669-e78c7200-a860-11eb-8b76-07ea11c12db1.jpg)
+
 
 
 
