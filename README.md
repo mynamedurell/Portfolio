@@ -4,6 +4,10 @@
 
 Hello world! My name is Durell Smiley and i'm a senior DCD major at Coastal Carolina University. I am currently planning on graduating in the Fall semester and hope to get a job in my field soon after. I'm interested in advertising, coding and social media branding so hopefully i can find a job relating to that in the future. My interests outside of DCD include playing video games, collecting shoes, and playing with my dog.
 
+## About My Future
+
+My career aspirations are pretty varied because i'm such an open minded person and am open to many new things. While I don't have a specific job that i'm currently looking for, I'd be happy to at least get a job close to my field. I currently work at Walmart and thats nowhere close to anything related to DCD so my mindset regarding that is its only up from here. My current hope is that whatever internship I land, I end up liking it and hopefully get a position with them so fingers crossed.
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
