@@ -16,7 +16,11 @@ Lastly my aesthetic is something that changes almost every given year whether it
 ![My first vector image I made. It might look a little weird but I like the contrast it has from the original image](https://user-images.githubusercontent.com/58044396/116488669-e78c7200-a860-11eb-8b76-07ea11c12db1.jpg)
 
 # Raster Images
-![IMG_1307](https://user-images.githubusercontent.com/58044396/116489148-3c7cb800-a862-11eb-8ef5-8e92b14749c0.jpeg) | ![IMG_0958](https://user-images.githubusercontent.com/58044396/116489161-44d4f300-a862-11eb-96e2-d75cbc3fb112.jpeg)
+
+**Eyes On Mt. Reiner**
+![IMG_1307](https://user-images.githubusercontent.com/58044396/116489148-3c7cb800-a862-11eb-8ef5-8e92b14749c0.jpeg) 
+**Rushing Rapids**
+![IMG_0958](https://user-images.githubusercontent.com/58044396/116489161-44d4f300-a862-11eb-96e2-d75cbc3fb112.jpeg)
 
 # Motion
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hn6pWCUjB2A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
