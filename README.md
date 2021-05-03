@@ -31,4 +31,5 @@ This is the original picture to compare between the two
 # Motion
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hn6pWCUjB2A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+##  Artist Statement
 
