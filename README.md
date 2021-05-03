@@ -15,6 +15,8 @@ Lastly my aesthetic is something that changes almost every given year whether it
 # Vector Images
 ![My first vector image I made. It might look a little weird but I like the contrast it has from the original image](https://user-images.githubusercontent.com/58044396/116488669-e78c7200-a860-11eb-8b76-07ea11c12db1.jpg)
 
+This was my first vector image I ever made and while it
+
 # Raster Images
 
 **Eyes On Mt. Reiner**
