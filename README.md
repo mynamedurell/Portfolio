@@ -25,8 +25,13 @@ This is the original picture to compare between the two
 
 **Eyes On Mt. Reiner**
 ![IMG_1307](https://user-images.githubusercontent.com/58044396/116489148-3c7cb800-a862-11eb-8ef5-8e92b14749c0.jpeg) 
+
+This was a picture I took while on the plane passing by Mt. Reiner
+
 **Rushing Rapids**
 ![IMG_0958](https://user-images.githubusercontent.com/58044396/116489161-44d4f300-a862-11eb-96e2-d75cbc3fb112.jpeg)
+
+This was more on the lower part of Mt. Rainier and that's super visible by the lack of snow in the picture.
 
 # Motion
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hn6pWCUjB2A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
